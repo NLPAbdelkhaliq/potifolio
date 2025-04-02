@@ -33,7 +33,7 @@ pg = st.navigation(
 # --- SHARED ON ALL PAGES ---
 st.logo("assets/codingisfun_logo.png")
 st.sidebar.markdown(" [Thumbnail Image Generator](https://youtube.com/@codingisfun)")
-st.sidebar.markdown(" [🦀 Rust in Streamlit](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [🦀     Rust in Streamlit](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
