@@ -25,7 +25,6 @@ pg = st.navigation(
     {
         "Info": [about_page],
         "Projects": [project_1_page, project_2_page],
-         st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)"),
          
     }
 )
