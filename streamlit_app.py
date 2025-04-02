@@ -41,6 +41,6 @@ st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown("Made with ❤️ by Abdelkhaliq Sharawy")
+st.sidebar.markdown("Copyright © 2025 Elegant Themes ®")
 pg.run()
 
