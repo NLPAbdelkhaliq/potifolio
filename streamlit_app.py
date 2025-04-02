@@ -20,7 +20,8 @@ project_2_page = st.Page(
 )
 
 project_3_page = st.Page(
-    "views/pro1.py",
+    st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)"),
+    #"views/pro1.py",
     title="pro1",
     icon=":material/smart_toy:",
 )
