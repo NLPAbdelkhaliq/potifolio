@@ -20,8 +20,8 @@ project_2_page = st.Page(
 )
 
 project_3_page = st.Page(
-    "views/pro1.py",
-    title="pro1",
+    st.link_button("go","https://youtube.com/@codingisfun"),
+    title="go",
     icon=":material/smart_toy:",
 )
 
