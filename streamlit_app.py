@@ -41,6 +41,6 @@ st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
+st.sidebar.markdown("Made with ❤️ by Abdelkhaliq Sharawy")
 pg.run()
 
