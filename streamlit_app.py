@@ -29,18 +29,18 @@ pg = st.navigation(
     }
 )
 
-st.header("main")
+
 # --- SHARED ON ALL PAGES ---
 st.logo("assets/codingisfun_logo.png")
-st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
 pg.run()
 
