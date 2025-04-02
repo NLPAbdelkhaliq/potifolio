@@ -21,7 +21,7 @@ project_2_page = st.Page(
 
 project_3_page = st.Page(
    "views/pro1.py",
-    title="go",
+    title="pro1",
     icon=":material/smart_toy:",
 )
 
