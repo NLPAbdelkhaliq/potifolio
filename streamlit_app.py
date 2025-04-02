@@ -36,7 +36,7 @@ st.sidebar.markdown(" [Thumbnail Image Generator](https://youtube.com/@codingisf
 st.sidebar.markdown(" [Rust in Streamlit](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Machine Learning App](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Movies Explorer](https://youtube.com/@codingisfun)")
-st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [Streamlit App Builder](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
