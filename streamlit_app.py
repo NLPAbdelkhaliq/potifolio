@@ -65,7 +65,7 @@ project_9_page = st.Page(
 
 project_10_page = st.Page(
     "views/pro8.py",
-    title="pro8",
+    title="https://youtube.com/@codingisfun",
     icon=":material/smart_toy:",
 )
 
