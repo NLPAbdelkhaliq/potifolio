@@ -26,7 +26,7 @@ project_3_page = st.Page(
 )
 
 project_4_page = st.Page(
-    "views/pro2.py",
+    "mm/streamlit_app.py",
     title="pro2",
     icon=":material/smart_toy:",
 )
