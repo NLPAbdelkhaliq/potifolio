@@ -25,12 +25,11 @@ pg = st.navigation(
     {
         "Info": [about_page],
         "Projects": [project_1_page, project_2_page],
-        "Main_Projects":,
          
     }
 )
 
-
+st.header("main")
 # --- SHARED ON ALL PAGES ---
 st.logo("assets/codingisfun_logo.png")
 st.sidebar.markdown("Made with ❤️ by [Abdelkhaliq](https://youtube.com/@codingisfun)")
