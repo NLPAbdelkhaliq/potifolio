@@ -20,13 +20,13 @@ project_2_page = st.Page(
 )
 
 project_3_page = st.Page(
-    st.link_button("go","https://youtube.com/@codingisfun"),
+   "views/pro1.py",
     title="go",
     icon=":material/smart_toy:",
 )
 
 project_4_page = st.Page(
-    "mm/streamlit_app.py",
+    "views/pro2.py",
     title="pro2",
     icon=":material/smart_toy:",
 )
@@ -65,7 +65,7 @@ project_9_page = st.Page(
 
 project_10_page = st.Page(
     "views/pro8.py",
-    title="https://youtube.com/@codingisfun",
+    title="pro8",
     icon=":material/smart_toy:",
 )
 
