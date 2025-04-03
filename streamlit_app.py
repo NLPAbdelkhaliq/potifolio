@@ -20,6 +20,10 @@ project_2_page = st.Page(
 )
 
 
+
+
+
+
 # --- NAVIGATION SETUP [WITH SECTIONS]---
 pg = st.navigation(
     {
@@ -32,11 +36,11 @@ pg = st.navigation(
 
 # --- SHARED ON ALL PAGES ---
 st.logo("assets/codingisfun_logo.png")
-st.sidebar.markdown(" [Thumbnail Image Generator](https://youtube.com/@codingisfun)")
-st.sidebar.markdown(" [Rust in Streamlit](https://youtube.com/@codingisfun)")
-st.sidebar.markdown(" [Machine Learning App](https://youtube.com/@codingisfun)")
-st.sidebar.markdown(" [Movies Explorer](https://youtube.com/@codingisfun)")
-st.sidebar.markdown(" [Streamlit App Builder](https://youtube.com/@codingisfun)")
+st.sidebar.markdown(" [Thumbnail Image Generator](https://movies-explorer-f6tczqstwadgujrjj7zszk.streamlit.app/)")
+st.sidebar.markdown(" [Rust in Streamlit](https://machinelearning-fv3hz3d4brmb5nvippftbb.streamlit.app/)")
+st.sidebar.markdown(" [Machine Learning App](https://9ethf9mwnkgzie6deegfid.streamlit.app/)")
+st.sidebar.markdown(" [Movies Explorer](https://thumbnail-image-effwpbhfswouzwsp8nhmd7.streamlit.app/)")
+st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
