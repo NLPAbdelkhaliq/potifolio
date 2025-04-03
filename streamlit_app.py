@@ -42,9 +42,6 @@ st.sidebar.markdown(" [Machine Learning App](https://9ethf9mwnkgzie6deegfid.stre
 st.sidebar.markdown(" [Movies Explorer](https://thumbnail-image-effwpbhfswouzwsp8nhmd7.streamlit.app/)")
 st.sidebar.markdown(" [interactive research](https://kcbh2pybjd3bpsd47f6pqm.streamlit.app/)")
 st.sidebar.markdown(" [OpenAI Chatbot](https://openai-chatbot-2d7ww4wshnnrfgbfmfjdsq.streamlit.app/)")
-st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
-st.sidebar.markdown(" [Abdelkhaliq](https://youtube.com/@codingisfun)")
 st.sidebar.markdown("Copyright © 2025 Novaxion ®")
 pg.run()
 
