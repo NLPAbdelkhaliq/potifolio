@@ -43,6 +43,10 @@ st.write(
 - ('LinkedIn', 'https://www.linkedin.com/in/abdelkhaliq-sharawy-49b4a4291')
 - ('facebook', 'https://www.facebook.com/share/19WvaKyGFw/')
 - ('GitHub',   'https://github.com/NLPAbdelkhaliq')
+
+- ('ُEmail',   'nlpprogrammer22@gmail.com')
+- ('mobile number',   '01033103651')
+
    '''
 )
 
