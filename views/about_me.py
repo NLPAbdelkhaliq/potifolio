@@ -40,17 +40,12 @@ st.write("\n")
 st.subheader("links", anchor=False)
 st.write(
     '''
-- ('LinkedIn', 'https://www.linkedin.com/in/chanin-nantasenamat')
-- ('Twitter', 'https://twitter.com/thedataprof')
-- ('GitHub', 'https://github.com/chaninn/')
-- ('', 'https://github.com/chaninlab/')
-- ('', 'https://github.com/dataprofessor')
-- ('ORCID', 'http://orcid.org/0000-0003-1040-663X')
-- ('Scopus', 'http://www.scopus.com/authid/detail.url?authorId=12039071300')
-- ('ResearcherID', 'http://www.researcherid.com/rid/F-1021-2010')
-- ('ResearchGate', 'https://www.researchgate.net/profile/Chanin_Nantasenamat')
-- ('Publons', 'https://publons.com/a/303133/')
-'''
+- ('LinkedIn', 'https://www.linkedin.com/in/abdelkhaliq-sharawy-49b4a4291')
+- ('facebook', 'https://www.facebook.com/share/19WvaKyGFw/')
+- ('GitHub',   'https://github.com/NLPAbdelkhaliq')
+   '''
 )
+
+
 
 
